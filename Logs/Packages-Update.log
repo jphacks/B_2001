@@ -43,3 +43,12 @@ The following packages were added:
   com.unity.textmeshpro@2.1.1
   com.unity.timeline@1.2.17
   com.unity.ugui@1.0.0
+
+=== Mon Nov  2 23:08:27 2020
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were 更新済:
+  com.unity.ide.vscode をバージョン 1.1.4 から 1.2.2 へ
+  com.unity.test-framework をバージョン 1.1.11 から 1.1.18 へ
