@@ -564,9 +564,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca707feefd905c34b82d9ecfdbc2a21c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skybox1: {fileID: 2100000, guid: 0d5771081eb9abb43b1792b52260d914, type: 2}
-  skybox2: {fileID: 2100000, guid: de1d750fefeeac642bf9b11a3978ccf5, type: 2}
-  skybox3: {fileID: 2100000, guid: d3823126980dd98479f7761e6d47338a, type: 2}
+  skybox1: {fileID: 2100000, guid: 24d76106ebc1bd947a3fed862f899b82, type: 2}
+  skybox2: {fileID: 2100000, guid: 0d5771081eb9abb43b1792b52260d914, type: 2}
+  skybox3: {fileID: 2100000, guid: de1d750fefeeac642bf9b11a3978ccf5, type: 2}
+  skybox4: {fileID: 2100000, guid: d3823126980dd98479f7761e6d47338a, type: 2}
 --- !u!1 &1290287149
 GameObject:
   m_ObjectHideFlags: 0

@@ -9,7 +9,7 @@ public class SkyboxChange : MonoBehaviour
     public Material skybox1;
     public Material skybox2;
     public Material skybox3;
-
+    public Material skybox4;
     //時間を取得
     private string time;
     // Start is called before the first frame update
@@ -32,14 +32,20 @@ public class SkyboxChange : MonoBehaviour
         }
 
         //12時から18時まではskybox1の背景
-        else if (newtime >= 12 && newtime <= 18)
+        else if (newtime >= 12 && newtime <= 15)
         {
             RenderSettings.skybox = skybox2;
+        }
+
+        //16時から18時まではskybox1の背景
+        else if (newtime >= 16 && newtime <= 18)
+        {
+            RenderSettings.skybox = skybox3;
         }
         //19時から3時まではskybox1の背景
         else if (newtime >= 19 && newtime <= 24 || newtime >= 0 && newtime <= 3)
         {
-            RenderSettings.skybox = skybox3;
+            RenderSettings.skybox = skybox4;
         }
 
     }
