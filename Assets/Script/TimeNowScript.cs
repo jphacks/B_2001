@@ -18,6 +18,6 @@ public class TimeNowScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        ClockText.text = DateTime.Now.ToLongTimeString();
+        ClockText.text = DateTime.Now.Year.ToString() + "/" + DateTime.Now.Month.ToString() + "/" + DateTime.Now.Day.ToString() + "/" + DateTime.Now.ToLongTimeString();
     }
 }
