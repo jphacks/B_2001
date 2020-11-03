@@ -13,17 +13,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-11-01T23:50:11.727+09:00
-  initializedAtString: 2020-11-01T22:12:00.823+09:00
+  lastUpdatedAtString: 2020-11-03T10:22:05.642+09:00
+  initializedAtString: 2020-11-03T10:22:05.144+09:00
   localBranches:
   - name: master
     tracking: origin/master
-  - name: UI
+  - name: Time
     tracking: 
   remoteBranches:
   - name: origin/HEAD
     tracking: '[None]'
   - name: origin/master
+    tracking: '[None]'
+  - name: origin/Time
     tracking: '[None]'
   - name: origin/UI
     tracking: '[None]'
@@ -38,14 +40,14 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - master
-    - UI
+    - Time
     values:
     - name: master
       remote:
         name: origin
         url: https://github.com/jphacks/B_2001.git
       trackingBranch: master
-    - name: UI
+    - name: Time
       remote:
         name: 
         url: 
@@ -57,6 +59,7 @@ MonoBehaviour:
     - Values:
       - HEAD
       - master
+      - Time
       - UI
     subKeyValues:
     - Values:
@@ -66,6 +69,11 @@ MonoBehaviour:
           url: https://github.com/jphacks/B_2001.git
         trackingBranch: 
       - name: master
+        remote:
+          name: origin
+          url: https://github.com/jphacks/B_2001.git
+        trackingBranch: 
+      - name: Time
         remote:
           name: origin
           url: https://github.com/jphacks/B_2001.git
