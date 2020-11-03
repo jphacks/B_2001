@@ -13,27 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-11-03T11:18:21.456+09:00
-  initializedAtString: 2020-11-03T11:13:15.974+09:00
+  lastUpdatedAtString: 2020-11-03T12:18:18.604+09:00
+  initializedAtString: 2020-11-03T12:18:18.585+09:00
   localBranches:
-  - name: Clock2
-    tracking: 
   - name: master
     tracking: origin/master
-  - name: Time
-    tracking: 
   remoteBranches:
-  - name: origin/Clock
-    tracking: '[None]'
-  - name: origin/Clock2
-    tracking: '[None]'
   - name: origin/HEAD
     tracking: '[None]'
   - name: origin/master
-    tracking: '[None]'
-  - name: origin/Time
-    tracking: '[None]'
-  - name: origin/UI
     tracking: '[None]'
   remotes:
   - name: origin
@@ -45,64 +33,28 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - Clock2
     - master
-    - Time
     values:
-    - name: Clock2
-      remote:
-        name: 
-        url: 
-      trackingBranch: 
     - name: master
       remote:
         name: origin
         url: https://github.com/jphacks/B_2001.git
       trackingBranch: master
-    - name: Time
-      remote:
-        name: 
-        url: 
-      trackingBranch: 
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
-      - Clock
-      - Clock2
       - HEAD
       - master
-      - Time
-      - UI
     subKeyValues:
     - Values:
-      - name: Clock
-        remote:
-          name: origin
-          url: https://github.com/jphacks/B_2001.git
-        trackingBranch: 
-      - name: Clock2
-        remote:
-          name: origin
-          url: https://github.com/jphacks/B_2001.git
-        trackingBranch: 
       - name: HEAD
         remote:
           name: origin
           url: https://github.com/jphacks/B_2001.git
         trackingBranch: 
       - name: master
-        remote:
-          name: origin
-          url: https://github.com/jphacks/B_2001.git
-        trackingBranch: 
-      - name: Time
-        remote:
-          name: origin
-          url: https://github.com/jphacks/B_2001.git
-        trackingBranch: 
-      - name: UI
         remote:
           name: origin
           url: https://github.com/jphacks/B_2001.git
