@@ -13,57 +13,75 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-11-03T17:23:00.370+09:00
-  initializedAtString: 2020-11-03T17:06:25.675+09:00
+  lastUpdatedAtString: 2020-11-03T22:55:07.651+09:00
+  initializedAtString: 2020-11-03T17:24:06.578+09:00
   entries:
-  - path: Assets\Images.meta
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Images.meta
-    projectPath: Assets\Images.meta
+  - path: Assets\json.meta
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\json.meta
+    projectPath: Assets\json.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Scenes\main.unity
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Scenes\main.unity
-    projectPath: Assets\Scenes\main.unity
+  - path: Assets\Script\ScheduleView.cs
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Script\ScheduleView.cs
+    projectPath: Assets\Script\ScheduleView.cs
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\APIUpdater\project-dependencies.graph
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\APIUpdater\project-dependencies.graph
-    projectPath: Library\APIUpdater\project-dependencies.graph
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Script\ScheduleView.cs.meta
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Script\ScheduleView.cs.meta
+    projectPath: Assets\Script\ScheduleView.cs.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\ArtifactDB
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\12\12a4012d2f576d65e73662d438d00138
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\Artifacts\12\12a4012d2f576d65e73662d438d00138
-    projectPath: Library\Artifacts\12\12a4012d2f576d65e73662d438d00138
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\57\57dc99ae18c48080561fe4744e7c30c1
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\Artifacts\57\57dc99ae18c48080561fe4744e7c30c1
-    projectPath: Library\Artifacts\57\57dc99ae18c48080561fe4744e7c30c1
+  - path: Library\Artifacts\09\096706670b55800d9f63bbc324a072f6
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\Artifacts\09\096706670b55800d9f63bbc324a072f6
+    projectPath: Library\Artifacts\09\096706670b55800d9f63bbc324a072f6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\7a\7abf1bb0d1062abfb8000cc6a1b74725
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\Artifacts\7a\7abf1bb0d1062abfb8000cc6a1b74725
-    projectPath: Library\Artifacts\7a\7abf1bb0d1062abfb8000cc6a1b74725
+  - path: Library\Artifacts\0e\0e7574617333f3fcf31acd0fe984f2c5
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\Artifacts\0e\0e7574617333f3fcf31acd0fe984f2c5
+    projectPath: Library\Artifacts\0e\0e7574617333f3fcf31acd0fe984f2c5
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\16\1633db18b3ccafcd2568b49491ba9cd0
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\Artifacts\16\1633db18b3ccafcd2568b49491ba9cd0
+    projectPath: Library\Artifacts\16\1633db18b3ccafcd2568b49491ba9cd0
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9b\9b22dd6028635d39b8ffefa633580888
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\Artifacts\9b\9b22dd6028635d39b8ffefa633580888
+    projectPath: Library\Artifacts\9b\9b22dd6028635d39b8ffefa633580888
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c9\c9694161dcffda755a2acb1fa1f53985
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\Artifacts\c9\c9694161dcffda755a2acb1fa1f53985
+    projectPath: Library\Artifacts\c9\c9694161dcffda755a2acb1fa1f53985
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f8\f859b25d0bff4685d6520f0d8bcabcef
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\Artifacts\f8\f859b25d0bff4685d6520f0d8bcabcef
+    projectPath: Library\Artifacts\f8\f859b25d0bff4685d6520f0d8bcabcef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f8\f892413844b0dde3c1345d41328d08d6
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\Artifacts\f8\f892413844b0dde3c1345d41328d08d6
+    projectPath: Library\Artifacts\f8\f892413844b0dde3c1345d41328d08d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\EditorInstance.json
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
@@ -100,12 +118,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.rider@1.1.4\package.json
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\PackageCache\com.unity.ide.rider@1.1.4\package.json
-    projectPath: Library\PackageCache\com.unity.ide.rider@1.1.4\package.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
@@ -118,135 +130,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.Timeline.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\UnityEditor.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\UnityEngine.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ShaderCache\2\2e5fca9a9836b9e886f851d5c500ec8d.bin
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ShaderCache\2\2e5fca9a9836b9e886f851d5c500ec8d.bin
-    projectPath: Library\ShaderCache\2\2e5fca9a9836b9e886f851d5c500ec8d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\6\64eb12bf5b41f7bf5a5d93bec3fb280b.bin
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ShaderCache\6\64eb12bf5b41f7bf5a5d93bec3fb280b.bin
-    projectPath: Library\ShaderCache\6\64eb12bf5b41f7bf5a5d93bec3fb280b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\b\b98fb527eb4619de9c9c4296d3cfc054.bin
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ShaderCache\b\b98fb527eb4619de9c9c4296d3cfc054.bin
-    projectPath: Library\ShaderCache\b\b98fb527eb4619de9c9c4296d3cfc054.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe1.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe2.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe3.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe4.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe5.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe6.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -268,12 +154,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Packages\packages-lock.json
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Packages\packages-lock.json
-    projectPath: Packages\packages-lock.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Temp\__Backupscenes\0.backup
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
@@ -283,6 +163,42 @@ MonoBehaviour:
   - path: Temp\UnityLockfile
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1890bf5ccd6f1684b861188b566911c2
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Temp\UnityTempFile-1890bf5ccd6f1684b861188b566911c2
+    projectPath: Temp\UnityTempFile-1890bf5ccd6f1684b861188b566911c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3e8ea444538b5fc4593e6793cccfbae2
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Temp\UnityTempFile-3e8ea444538b5fc4593e6793cccfbae2
+    projectPath: Temp\UnityTempFile-3e8ea444538b5fc4593e6793cccfbae2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-43492b0596b08454a8c29c8e0e8eeb5f
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Temp\UnityTempFile-43492b0596b08454a8c29c8e0e8eeb5f
+    projectPath: Temp\UnityTempFile-43492b0596b08454a8c29c8e0e8eeb5f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a19ad25bfed49034b9bc1c1464454fc0
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Temp\UnityTempFile-a19ad25bfed49034b9bc1c1464454fc0
+    projectPath: Temp\UnityTempFile-a19ad25bfed49034b9bc1c1464454fc0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d9f05a2b9c623f04a888d4f2486e61ad
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Temp\UnityTempFile-d9f05a2b9c623f04a888d4f2486e61ad
+    projectPath: Temp\UnityTempFile-d9f05a2b9c623f04a888d4f2486e61ad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f64f2e3ecf1754c4786588d88dbd52df
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Temp\UnityTempFile-f64f2e3ecf1754c4786588d88dbd52df
+    projectPath: Temp\UnityTempFile-f64f2e3ecf1754c4786588d88dbd52df
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
