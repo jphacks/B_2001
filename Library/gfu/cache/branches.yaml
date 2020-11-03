@@ -13,27 +13,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-11-03T11:18:21.456+09:00
-  initializedAtString: 2020-11-03T11:13:15.974+09:00
+  lastUpdatedAtString: 2020-11-03T17:23:00.227+09:00
+  initializedAtString: 2020-11-03T17:22:59.767+09:00
   localBranches:
-  - name: Clock2
-    tracking: 
   - name: master
     tracking: origin/master
-  - name: Time
+  - name: schedule
     tracking: 
   remoteBranches:
-  - name: origin/Clock
-    tracking: '[None]'
-  - name: origin/Clock2
-    tracking: '[None]'
   - name: origin/HEAD
     tracking: '[None]'
   - name: origin/master
     tracking: '[None]'
-  - name: origin/Time
+  - name: origin/schedule
     tracking: '[None]'
-  - name: origin/UI
+  - name: origin/Ui_fixed
     tracking: '[None]'
   remotes:
   - name: origin
@@ -45,21 +39,15 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - Clock2
     - master
-    - Time
+    - schedule
     values:
-    - name: Clock2
-      remote:
-        name: 
-        url: 
-      trackingBranch: 
     - name: master
       remote:
         name: origin
         url: https://github.com/jphacks/B_2001.git
       trackingBranch: master
-    - name: Time
+    - name: schedule
       remote:
         name: 
         url: 
@@ -69,24 +57,12 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
-      - Clock
-      - Clock2
       - HEAD
       - master
-      - Time
-      - UI
+      - schedule
+      - Ui_fixed
     subKeyValues:
     - Values:
-      - name: Clock
-        remote:
-          name: origin
-          url: https://github.com/jphacks/B_2001.git
-        trackingBranch: 
-      - name: Clock2
-        remote:
-          name: origin
-          url: https://github.com/jphacks/B_2001.git
-        trackingBranch: 
       - name: HEAD
         remote:
           name: origin
@@ -97,12 +73,12 @@ MonoBehaviour:
           name: origin
           url: https://github.com/jphacks/B_2001.git
         trackingBranch: 
-      - name: Time
+      - name: schedule
         remote:
           name: origin
           url: https://github.com/jphacks/B_2001.git
         trackingBranch: 
-      - name: UI
+      - name: Ui_fixed
         remote:
           name: origin
           url: https://github.com/jphacks/B_2001.git
