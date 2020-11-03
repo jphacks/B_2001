@@ -23,6 +23,17 @@ public class ScheduleView : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        loadToday();
+    }
+
+    public todays_schedule loadToday()
+    {
+        string datastr = "";
+        StreamReader reader;
+        reader = new StreamReader(Application.dataPath + "json/schedule.json");
+        datastr = reader.ReadToEnd();
+        reader.Close();
+
+        return JsonUtility.FromJson<todays_schedule>(datastr);
     }
 }
