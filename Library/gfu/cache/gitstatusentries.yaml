@@ -13,84 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-11-04T09:36:57.689+09:00
-  initializedAtString: 2020-11-04T09:20:53.019+09:00
+  lastUpdatedAtString: 2020-11-04T10:18:13.631+09:00
+  initializedAtString: 2020-11-04T10:02:45.721+09:00
   entries:
   - path: Assets\Scenes\Edit_Schedule.unity
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Scenes\Edit_Schedule.unity
     projectPath: Assets\Scenes\Edit_Schedule.unity
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\Edit_Schedule.unity.meta
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Scenes\Edit_Schedule.unity.meta
-    projectPath: Assets\Scenes\Edit_Schedule.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\main.unity
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Scenes\main.unity
-    projectPath: Assets\Scenes\main.unity
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Script\move_Edit_Schedule.cs
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Script\move_Edit_Schedule.cs
-    projectPath: Assets\Script\move_Edit_Schedule.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Script\move_Edit_Schedule.cs.meta
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Script\move_Edit_Schedule.cs.meta
-    projectPath: Assets\Script\move_Edit_Schedule.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\ArtifactDB
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ArtifactDB
     projectPath: Library\ArtifactDB
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 3
-  - path: Library\Artifacts\16\1633db18b3ccafcd2568b49491ba9cd0
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\Artifacts\16\1633db18b3ccafcd2568b49491ba9cd0
-    projectPath: Library\Artifacts\16\1633db18b3ccafcd2568b49491ba9cd0
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Library\Artifacts\5d\5debfb3a54026ab93a6719be6a7caf5a
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\Artifacts\5d\5debfb3a54026ab93a6719be6a7caf5a
-    projectPath: Library\Artifacts\5d\5debfb3a54026ab93a6719be6a7caf5a
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Library\Artifacts\60\60170e73b04a7de220e3ae774fd4f71e
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\Artifacts\60\60170e73b04a7de220e3ae774fd4f71e
-    projectPath: Library\Artifacts\60\60170e73b04a7de220e3ae774fd4f71e
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Library\Artifacts\a6\a6457972fa4d9dd98cb0aedc9a3d68fb
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\Artifacts\a6\a6457972fa4d9dd98cb0aedc9a3d68fb
-    projectPath: Library\Artifacts\a6\a6457972fa4d9dd98cb0aedc9a3d68fb
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Library\Artifacts\ad\ad664df9261e70d89cddc1d0f92f4673
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\Artifacts\ad\ad664df9261e70d89cddc1d0f92f4673
-    projectPath: Library\Artifacts\ad\ad664df9261e70d89cddc1d0f92f4673
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 3
-  - path: Library\EditorUserBuildSettings.asset
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\EditorUserBuildSettings.asset
-    projectPath: Library\EditorUserBuildSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -118,57 +52,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe1.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 3
   - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe2.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe3.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe6.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+  - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -176,7 +74,7 @@ MonoBehaviour:
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: Library\StateCache\Hierarchy\46b7a0-mainStage.json
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\StateCache\Hierarchy\46b7a0-mainStage.json
@@ -187,12 +85,6 @@ MonoBehaviour:
   - path: Library\StateCache\SceneView\d69a67-mainStage.json
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\StateCache\SceneView\d69a67-mainStage.json
     projectPath: Library\StateCache\SceneView\d69a67-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\EditorBuildSettings.asset
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\ProjectSettings\EditorBuildSettings.asset
-    projectPath: ProjectSettings\EditorBuildSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
