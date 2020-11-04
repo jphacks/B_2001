@@ -13,93 +13,51 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-11-03T23:43:19.042+09:00
-  initializedAtString: 2020-11-03T22:58:11.092+09:00
+  lastUpdatedAtString: 2020-11-04T11:44:32.357+09:00
+  initializedAtString: 2020-11-04T11:17:03.637+09:00
   entries:
-  - path: Assets\Script\ScheduleView.cs
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Script\ScheduleView.cs
-    projectPath: Assets\Script\ScheduleView.cs
+  - path: Assets\Scenes\main.unity
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Scenes\main.unity
+    projectPath: Assets\Scenes\main.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Script\SkyboxChange.cs
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Script\SkyboxChange.cs
-    projectPath: Assets\Script\SkyboxChange.cs
+  - path: Assets\Script\Panel_Edit_Schedule.cs
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Script\Panel_Edit_Schedule.cs
+    projectPath: Assets\Script\Panel_Edit_Schedule.cs
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Script\Panel_Edit_Schedule.cs.meta
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Script\Panel_Edit_Schedule.cs.meta
+    projectPath: Assets\Script\Panel_Edit_Schedule.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Script\Panel_Edit_Schedule_Close.cs
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Script\Panel_Edit_Schedule_Close.cs
+    projectPath: Assets\Script\Panel_Edit_Schedule_Close.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Script\Panel_Edit_Schedule_Close.cs.meta
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Script\Panel_Edit_Schedule_Close.cs.meta
+    projectPath: Assets\Script\Panel_Edit_Schedule_Close.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\ArtifactDB
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\09\096706670b55800d9f63bbc324a072f6
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\Artifacts\09\096706670b55800d9f63bbc324a072f6
-    projectPath: Library\Artifacts\09\096706670b55800d9f63bbc324a072f6
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\0e\0e7574617333f3fcf31acd0fe984f2c5
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\Artifacts\0e\0e7574617333f3fcf31acd0fe984f2c5
-    projectPath: Library\Artifacts\0e\0e7574617333f3fcf31acd0fe984f2c5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\5d\5debfb3a54026ab93a6719be6a7caf5a
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\Artifacts\5d\5debfb3a54026ab93a6719be6a7caf5a
-    projectPath: Library\Artifacts\5d\5debfb3a54026ab93a6719be6a7caf5a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\60\60170e73b04a7de220e3ae774fd4f71e
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\Artifacts\60\60170e73b04a7de220e3ae774fd4f71e
-    projectPath: Library\Artifacts\60\60170e73b04a7de220e3ae774fd4f71e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\6b\6b951ae4f4f910357e8609c2c40933ea
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\Artifacts\6b\6b951ae4f4f910357e8609c2c40933ea
-    projectPath: Library\Artifacts\6b\6b951ae4f4f910357e8609c2c40933ea
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\9b\9b22dd6028635d39b8ffefa633580888
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\Artifacts\9b\9b22dd6028635d39b8ffefa633580888
-    projectPath: Library\Artifacts\9b\9b22dd6028635d39b8ffefa633580888
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ad\ad664df9261e70d89cddc1d0f92f4673
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\Artifacts\ad\ad664df9261e70d89cddc1d0f92f4673
-    projectPath: Library\Artifacts\ad\ad664df9261e70d89cddc1d0f92f4673
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b3\b39080e0a601e102416ee9f56695ad42
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\Artifacts\b3\b39080e0a601e102416ee9f56695ad42
-    projectPath: Library\Artifacts\b3\b39080e0a601e102416ee9f56695ad42
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c9\c9694161dcffda755a2acb1fa1f53985
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\Artifacts\c9\c9694161dcffda755a2acb1fa1f53985
-    projectPath: Library\Artifacts\c9\c9694161dcffda755a2acb1fa1f53985
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f8\f859b25d0bff4685d6520f0d8bcabcef
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\Artifacts\f8\f859b25d0bff4685d6520f0d8bcabcef
-    projectPath: Library\Artifacts\f8\f859b25d0bff4685d6520f0d8bcabcef
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\EditorInstance.json
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\EditorInstance.json
-    projectPath: Library\EditorInstance.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
@@ -124,9 +82,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\SceneVisibilityState.asset
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
+  - path: Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -142,6 +100,36 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\SourceAssetDB
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
@@ -154,39 +142,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp\UnityLockfile
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Temp\UnityLockfile
-    projectPath: Temp\UnityLockfile
+  - path: Library\StateCache\SceneView\d69a67-mainStage.json
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\StateCache\SceneView\d69a67-mainStage.json
+    projectPath: Library\StateCache\SceneView\d69a67-mainStage.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-03f194faa8202da49a6cad638d69c17a
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Temp\UnityTempFile-03f194faa8202da49a6cad638d69c17a
-    projectPath: Temp\UnityTempFile-03f194faa8202da49a6cad638d69c17a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-a1d4b4e4b8bea1844ad2ce57418f5e34
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Temp\UnityTempFile-a1d4b4e4b8bea1844ad2ce57418f5e34
-    projectPath: Temp\UnityTempFile-a1d4b4e4b8bea1844ad2ce57418f5e34
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-b3f446424e6f93b44890e72e4bb6d758
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Temp\UnityTempFile-b3f446424e6f93b44890e72e4bb6d758
-    projectPath: Temp\UnityTempFile-b3f446424e6f93b44890e72e4bb6d758
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-dfe4018f7ccec13489f9a9e64a258a69
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Temp\UnityTempFile-dfe4018f7ccec13489f9a9e64a258a69
-    projectPath: Temp\UnityTempFile-dfe4018f7ccec13489f9a9e64a258a69
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-f6de989a2727908469aea14ccd4b89bf
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Temp\UnityTempFile-f6de989a2727908469aea14ccd4b89bf
-    projectPath: Temp\UnityTempFile-f6de989a2727908469aea14ccd4b89bf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
