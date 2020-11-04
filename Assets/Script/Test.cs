@@ -3,14 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Alarm : MonoBehaviour
+public class Test : MonoBehaviour
 {
 
     //オブジェクトと結びつける
     public InputField inputField;
     public Text text;
     private string newtext;
-    private int a;
+    private string time;
 
     void Start()
     {
@@ -22,22 +22,19 @@ public class Alarm : MonoBehaviour
 
     public void InputText()
     {
+        newtext = inputField.text;
+        int a = int.Parse(newtext);
+
+        time = System.DateTime.Now.Hour.ToString();
+        int newtime = int.Parse(time);
+
         //テキストにinputFieldの内容を反映
         text.text = inputField.text;
-        
-
-    }
-    // Update is called once per frame
-    void Update()
-    {
-        newtext = text.text;
-        int a = int.Parse(newtext);
-        if (a == 1)
-        {
-            text.text = "aaa";
-            text.text = inputField.text;
+        if (a == newtime) 
+        { 
+            text.text = "123";
         }
+
     }
+
 }
-
-
