@@ -25,7 +25,7 @@ public class ScheduleView : MonoBehaviour
     {
         todays_schedule abc = loadToday();
         Debug.Log(abc);
-        Debug.Log(SC_Add_Month());
+        // Debug.Log(SC_Add_Month());
     }
     
     // JSONから読み込む
