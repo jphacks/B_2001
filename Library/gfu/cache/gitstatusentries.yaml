@@ -13,12 +13,48 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-11-04T22:21:36.971+09:00
-  initializedAtString: 2020-11-04T22:21:36.971+09:00
+  lastUpdatedAtString: 2020-11-04T23:51:17.188+09:00
+  initializedAtString: 2020-11-04T22:43:02.313+09:00
   entries:
+  - path: Assets\json\schedule.json
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\json\schedule.json
+    projectPath: Assets\json\schedule.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\json\schedule.json.meta
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\json\schedule.json.meta
+    projectPath: Assets\json\schedule.json.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Script\ScheduleView.cs
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Script\ScheduleView.cs
+    projectPath: Assets\Script\ScheduleView.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ArtifactDB
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ArtifactDB
     projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -28,87 +64,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.Timeline.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\UnityEditor.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\UnityEngine.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe3.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+  - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\SourceAssetDB
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\Hierarchy\46b7a0-mainStage.json
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\StateCache\Hierarchy\46b7a0-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\46b7a0-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\d69a67-mainStage.json
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\StateCache\SceneView\d69a67-mainStage.json
+    projectPath: Library\StateCache\SceneView\d69a67-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

@@ -806,6 +806,8 @@ MonoBehaviour:
   m_Value: 0
   m_Options:
     m_Options:
+    - m_Text: 0
+      m_Image: {fileID: 0}
     - m_Text: 1
       m_Image: {fileID: 0}
     - m_Text: 2
@@ -2222,6 +2224,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f9c22fc2199633d4c8d07d5d19904cae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  read_Month: {fileID: 0}
 --- !u!114 &700267686
 MonoBehaviour:
   m_ObjectHideFlags: 0
