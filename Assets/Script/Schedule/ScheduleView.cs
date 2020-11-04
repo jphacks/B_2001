@@ -13,7 +13,7 @@ public class ScheduleView : MonoBehaviour
         public int day;
         public string schedule;
     }
-
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -23,9 +23,11 @@ public class ScheduleView : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        loadToday();
+        todays_schedule abc = loadToday();
+        Debug.Log(abc);
     }
-
+    
+    // JSONから読み込む
     public todays_schedule loadToday()
     {
         string datastr = "";
@@ -36,4 +38,18 @@ public class ScheduleView : MonoBehaviour
 
         return JsonUtility.FromJson<todays_schedule>(datastr);
     }
+
+    // JSONに書き込む
+    public void writetoday(todays_schedule schedule)
+    {
+        StreamWriter writer;
+
+        string jsonstr = JsonUtility.ToJson(schedule);
+
+        writer = new StreamWriter(Application.dataPath + "json/schedule.json", false);
+        writer.Write(jsonstr);
+        writer.Flush();
+        writer.Close();
+    }
+
 }
