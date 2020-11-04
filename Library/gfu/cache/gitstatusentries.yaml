@@ -13,9 +13,27 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-11-03T22:59:53.272+09:00
-  initializedAtString: 2020-11-03T22:39:29.444+09:00
+  lastUpdatedAtString: 2020-11-04T09:19:20.421+09:00
+  initializedAtString: 2020-11-04T09:17:28.456+09:00
   entries:
+  - path: Assets\Scenes\main.unity
+    fullPath: "C:\\Users\\kenta\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\payday\\git\\B_2001\\B_2001\\Assets\\Scenes\\main.unity"
+    projectPath: Assets\Scenes\main.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Script\Alarm.cs
+    fullPath: "C:\\Users\\kenta\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\payday\\git\\B_2001\\B_2001\\Assets\\Script\\Alarm.cs"
+    projectPath: Assets\Script\Alarm.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Script\Alarm.cs.meta
+    fullPath: "C:\\Users\\kenta\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\payday\\git\\B_2001\\B_2001\\Assets\\Script\\Alarm.cs.meta"
+    projectPath: Assets\Script\Alarm.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Script\SkyboxChange.cs
     fullPath: "C:\\Users\\kenta\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\payday\\git\\B_2001\\B_2001\\Assets\\Script\\SkyboxChange.cs"
     projectPath: Assets\Script\SkyboxChange.cs
@@ -28,15 +46,45 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\a6\a6457972fa4d9dd98cb0aedc9a3d68fb
-    fullPath: "C:\\Users\\kenta\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\payday\\git\\B_2001\\B_2001\\Library\\Artifacts\\a6\\a6457972fa4d9dd98cb0aedc9a3d68fb"
-    projectPath: Library\Artifacts\a6\a6457972fa4d9dd98cb0aedc9a3d68fb
+  - path: Library\Artifacts\6b\6b230e7dade78b198cb380c238439eb9
+    fullPath: "C:\\Users\\kenta\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\payday\\git\\B_2001\\B_2001\\Library\\Artifacts\\6b\\6b230e7dade78b198cb380c238439eb9"
+    projectPath: Library\Artifacts\6b\6b230e7dade78b198cb380c238439eb9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cf\cf6b5521f049c5e438fba6d45d8c0e0a
+    fullPath: "C:\\Users\\kenta\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\payday\\git\\B_2001\\B_2001\\Library\\Artifacts\\cf\\cf6b5521f049c5e438fba6d45d8c0e0a"
+    projectPath: Library\Artifacts\cf\cf6b5521f049c5e438fba6d45d8c0e0a
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
   - path: Library\Artifacts\d7\d7e51a8f618afa37d844465bc60d6c20
     fullPath: "C:\\Users\\kenta\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\payday\\git\\B_2001\\B_2001\\Library\\Artifacts\\d7\\d7e51a8f618afa37d844465bc60d6c20"
     projectPath: Library\Artifacts\d7\d7e51a8f618afa37d844465bc60d6c20
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\db\db1f33bbdf4a69bb30a753553d4f300c
+    fullPath: "C:\\Users\\kenta\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\payday\\git\\B_2001\\B_2001\\Library\\Artifacts\\db\\db1f33bbdf4a69bb30a753553d4f300c"
+    projectPath: Library\Artifacts\db\db1f33bbdf4a69bb30a753553d4f300c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\db\db91e8633dd37954cdd4ad6ff14530fd
+    fullPath: "C:\\Users\\kenta\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\payday\\git\\B_2001\\B_2001\\Library\\Artifacts\\db\\db91e8633dd37954cdd4ad6ff14530fd"
+    projectPath: Library\Artifacts\db\db91e8633dd37954cdd4ad6ff14530fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e4\e4a94e18431617138eff197fd28a19d4
+    fullPath: "C:\\Users\\kenta\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\payday\\git\\B_2001\\B_2001\\Library\\Artifacts\\e4\\e4a94e18431617138eff197fd28a19d4"
+    projectPath: Library\Artifacts\e4\e4a94e18431617138eff197fd28a19d4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f7\f7d617649e1ee86ae8464d0413cb50f7
+    fullPath: "C:\\Users\\kenta\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\payday\\git\\B_2001\\B_2001\\Library\\Artifacts\\f7\\f7d617649e1ee86ae8464d0413cb50f7"
+    projectPath: Library\Artifacts\f7\f7d617649e1ee86ae8464d0413cb50f7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -88,12 +136,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\SceneVisibilityState.asset
-    fullPath: "C:\\Users\\kenta\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\payday\\git\\B_2001\\B_2001\\Library\\SceneVisibilityState.asset"
-    projectPath: Library\SceneVisibilityState.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: "C:\\Users\\kenta\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\payday\\git\\B_2001\\B_2001\\Library\\ScriptAssemblies\\Assembly-CSharp.dll"
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
@@ -112,6 +154,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: "C:\\Users\\kenta\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\payday\\git\\B_2001\\B_2001\\Library\\shadercompiler-UnityShaderCompiler.exe4.log"
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: "C:\\Users\\kenta\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\payday\\git\\B_2001\\B_2001\\Library\\shadercompiler-UnityShaderCompiler.exe5.log"
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\SourceAssetDB
     fullPath: "C:\\Users\\kenta\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\payday\\git\\B_2001\\B_2001\\Library\\SourceAssetDB"
     projectPath: Library\SourceAssetDB
@@ -124,15 +178,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\StateCache\SceneView\d69a67-mainStage.json
+    fullPath: "C:\\Users\\kenta\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\payday\\git\\B_2001\\B_2001\\Library\\StateCache\\SceneView\\d69a67-mainStage.json"
+    projectPath: Library\StateCache\SceneView\d69a67-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: "C:\\Users\\kenta\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\payday\\git\\B_2001\\B_2001\\Temp\\__Backupscenes\\0.backup"
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\UnityLockfile
     fullPath: "C:\\Users\\kenta\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\payday\\git\\B_2001\\B_2001\\Temp\\UnityLockfile"
     projectPath: Temp\UnityLockfile
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-459b827c048ac514b81889793fd9463f
-    fullPath: "C:\\Users\\kenta\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\payday\\git\\B_2001\\B_2001\\Temp\\UnityTempFile-459b827c048ac514b81889793fd9463f"
-    projectPath: Temp\UnityTempFile-459b827c048ac514b81889793fd9463f
+  - path: Temp\UnityTempFile-e03955c6765c6f345ab3b86585fee332
+    fullPath: "C:\\Users\\kenta\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\payday\\git\\B_2001\\B_2001\\Temp\\UnityTempFile-e03955c6765c6f345ab3b86585fee332"
+    projectPath: Temp\UnityTempFile-e03955c6765c6f345ab3b86585fee332
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

@@ -12,10 +12,10 @@ public class SkyboxChange : MonoBehaviour
     public Material skybox4;
 
     //判定用変数
-    private bool a = true;
-    private bool b = true;
-    private bool c = true;
-    private bool d = true;
+    private bool a = false;
+    private bool b = false;
+    private bool c = false;
+    private bool d = false;
 
     //時間を取得
     private string time;
@@ -29,13 +29,13 @@ public class SkyboxChange : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //a,b,c,dがfalseならtrueに変換
-        if (!(a && b && c && d))
+        //a,b,c,dがtrueならfalseに変換
+        if (a && b && c && d)
         {
-            a = true;
-            b = true;
-            c = true;
-            d = true;
+            a = false;
+            b = false;
+            c = false;
+            d = false;
         }
 
         time = System.DateTime.Now.Hour.ToString();
@@ -44,10 +44,10 @@ public class SkyboxChange : MonoBehaviour
         //4時から11時まではskybox1の背景
         if (newtime >= 4 && newtime <= 11)
         {
-            if (a)
+            if (!a)
             {
                 RenderSettings.skybox = skybox1;
-                a=false;
+                a=true;
             }
             else
             {
@@ -57,10 +57,10 @@ public class SkyboxChange : MonoBehaviour
         //12時から15時まではskybox1の背景
         else if (newtime >= 12 && newtime <= 15)
         {
-            if (b)
+            if (!b)
             {
                 RenderSettings.skybox = skybox2;
-                b = false;
+                b = true;
             }
             else
             {
@@ -69,10 +69,10 @@ public class SkyboxChange : MonoBehaviour
         //16時から18時まではskybox1の背景
         else if (newtime >= 16 && newtime <= 18)
         {
-            if (c)
+            if (!c)
             {
                 RenderSettings.skybox = skybox3;
-                c = false;
+                c = true;
             }
             else
             {
@@ -81,10 +81,10 @@ public class SkyboxChange : MonoBehaviour
         //19時から3時まではskybox1の背景
         else if (newtime >= 19 && newtime <= 24 || newtime >= 0 && newtime <= 3)
         {
-            if (d)
+            if (!d)
             {
                 RenderSettings.skybox = skybox4;
-                d = false;
+                d = true;
             }
             else
             { 
