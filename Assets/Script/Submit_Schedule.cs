@@ -66,7 +66,7 @@ public class Submit_Schedule : MonoBehaviour
         string jsonsh = JsonUtility.ToJson(todays_Schedule);
         Debug.Log(jsonsh);
 
-        writer = new StreamWriter(Application.dataPath + "/json/schedule.json", false);
+        writer = new StreamWriter(Application.dataPath + "/json/schedule.json",true);
         writer.Write(jsonsh);
         writer.Flush();
         writer.Close();
