@@ -13,12 +13,96 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-11-05T19:20:45.426+09:00
-  initializedAtString: 2020-11-05T19:09:26.259+09:00
+  lastUpdatedAtString: 2020-11-05T22:20:37.195+09:00
+  initializedAtString: 2020-11-05T22:20:37.195+09:00
   entries:
-  - path: Assets\Images.meta
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Images.meta
-    projectPath: Assets\Images.meta
+  - path: Assets\Picture.meta
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Picture.meta
+    projectPath: Assets\Picture.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Picture\25354_1.png
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Picture\25354_1.png
+    projectPath: Assets\Picture\25354_1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Picture\25354_1.png.meta
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Picture\25354_1.png.meta
+    projectPath: Assets\Picture\25354_1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Picture\29850.png
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Picture\29850.png
+    projectPath: Assets\Picture\29850.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Picture\29850.png.meta
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Picture\29850.png.meta
+    projectPath: Assets\Picture\29850.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Picture\43455.png
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Picture\43455.png
+    projectPath: Assets\Picture\43455.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Picture\43455.png.meta
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Picture\43455.png.meta
+    projectPath: Assets\Picture\43455.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Picture\84397.png
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Picture\84397.png
+    projectPath: Assets\Picture\84397.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Picture\84397.png.meta
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Picture\84397.png.meta
+    projectPath: Assets\Picture\84397.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Picture\CKRwYaL2nZcfEv61604563710_1604563723.png
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Picture\CKRwYaL2nZcfEv61604563710_1604563723.png
+    projectPath: Assets\Picture\CKRwYaL2nZcfEv61604563710_1604563723.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Picture\CKRwYaL2nZcfEv61604563710_1604563723.png.meta
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Picture\CKRwYaL2nZcfEv61604563710_1604563723.png.meta
+    projectPath: Assets\Picture\CKRwYaL2nZcfEv61604563710_1604563723.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Picture\UScnsnerT73f8j01604539343_1604539409.png
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Picture\UScnsnerT73f8j01604539343_1604539409.png
+    projectPath: Assets\Picture\UScnsnerT73f8j01604539343_1604539409.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Picture\UScnsnerT73f8j01604539343_1604539409.png.meta
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Picture\UScnsnerT73f8j01604539343_1604539409.png.meta
+    projectPath: Assets\Picture\UScnsnerT73f8j01604539343_1604539409.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Picture\\\u30B9\u30E9\u30A4\u30C91.PNG"
+    fullPath: "C:\\Users\\love_\\Desktop\\P\\Git\\B_2001\\Assets\\Picture\\\u30B9\u30E9\u30A4\u30C91.PNG"
+    projectPath: "Assets\\Picture\\\u30B9\u30E9\u30A4\u30C91.PNG"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Picture\\\u30B9\u30E9\u30A4\u30C91.PNG.meta"
+    fullPath: "C:\\Users\\love_\\Desktop\\P\\Git\\B_2001\\Assets\\Picture\\\u30B9\u30E9\u30A4\u30C91.PNG.meta"
+    projectPath: "Assets\\Picture\\\u30B9\u30E9\u30A4\u30C91.PNG.meta"
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -28,15 +112,33 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\Script\Alarm_H.cs
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Script\Alarm_H.cs
+    projectPath: Assets\Script\Alarm_H.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Script\Time_G.cs
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Script\Time_G.cs
+    projectPath: Assets\Script\Time_G.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Script\Time_G.cs.meta
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Script\Time_G.cs.meta
+    projectPath: Assets\Script\Time_G.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\ArtifactDB
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\EditorSnapSettings.asset
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\EditorSnapSettings.asset
-    projectPath: Library\EditorSnapSettings.asset
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -64,15 +166,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.ide.rider@1.1.4\package.json
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\PackageCache\com.unity.ide.rider@1.1.4\package.json
-    projectPath: Library\PackageCache\com.unity.ide.rider@1.1.4\package.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+  - path: Library\SceneVisibilityState.asset
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -94,12 +190,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe4.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe5.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
@@ -118,15 +208,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: ProjectSettings\PackageManagerSettings.asset
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\ProjectSettings\PackageManagerSettings.asset
-    projectPath: ProjectSettings\PackageManagerSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\QualitySettings.asset
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\ProjectSettings\QualitySettings.asset
-    projectPath: ProjectSettings\QualitySettings.asset
+  - path: Library\StateCache\SceneView\d69a67-mainStage.json
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\StateCache\SceneView\d69a67-mainStage.json
+    projectPath: Library\StateCache\SceneView\d69a67-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
