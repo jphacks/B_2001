@@ -730,7 +730,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0160c6859980d0f4b8fefe641d64466b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  inputField: {fileID: 0}
+  inputField: {fileID: 143906522}
 --- !u!1 &189118378
 GameObject:
   m_ObjectHideFlags: 0
@@ -1200,6 +1200,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 18afb98388161d54c93f4ea2b8f91c30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dropdownComponent: {fileID: 1304428779}
 --- !u!4 &361350430
 Transform:
   m_ObjectHideFlags: 0
@@ -2186,6 +2187,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 75ca3515a2137bc4fae1a6f51012c57d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  panel: {fileID: 1137147028}
 --- !u!114 &633867185
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2571,6 +2573,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: abc3cd04ad0d7a249bc7f80c5c2a80cd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  panel: {fileID: 1137147028}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -3792,6 +3795,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca707feefd905c34b82d9ecfdbc2a21c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  skybox1: {fileID: 2100000, guid: 0e51b3d2f16325549987d8d6070de3a1, type: 2}
+  skybox2: {fileID: 2100000, guid: 0d5771081eb9abb43b1792b52260d914, type: 2}
+  skybox3: {fileID: 2100000, guid: de1d750fefeeac642bf9b11a3978ccf5, type: 2}
+  skybox4: {fileID: 2100000, guid: d3823126980dd98479f7761e6d47338a, type: 2}
 --- !u!1 &1047279061
 GameObject:
   m_ObjectHideFlags: 0
