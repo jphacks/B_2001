@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-11-05T16:51:51.432+09:00
-  initializedAtString: 2020-11-05T16:51:51.432+09:00
+  lastUpdatedAtString: 2020-11-05T18:17:41.176+09:00
+  initializedAtString: 2020-11-05T18:17:41.176+09:00
   currentGitRemote:
     name: origin
     url: https://github.com/jphacks/B_2001.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: UI_fixed2
-    tracking: origin/UI_fixed2
+    name: komachi
+    tracking: origin/komachi
   currentConfigBranch:
-    name: UI_fixed2
+    name: komachi
     remote:
       name: origin
       url: https://github.com/jphacks/B_2001.git
-    trackingBranch: UI_fixed2
+    trackingBranch: komachi
   currentConfigRemote:
     name: origin
     url: https://github.com/jphacks/B_2001.git
