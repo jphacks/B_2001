@@ -1,19 +1,27 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
-public class Alarm_m : MonoBehaviour
+public class Alarm_M : MonoBehaviour
 {
-    private string minute;
-    // Start is called before the first frame update
+    public static int iptime_m2;
+
+    [SerializeField] private Dropdown dropdownComponent;
+
     void Start()
     {
-        
+
     }
 
-    // Update is called once per frame
-    void Update()
+    public void Get_m_time()
     {
-        minute = System.DateTime.Now.Minute.ToString();
+        //ドロップダウンの値を格納（分用）
+        iptime_m2 = dropdownComponent.value;
+        Debug.Log(iptime_m2);
+
+
     }
+
 }
+
