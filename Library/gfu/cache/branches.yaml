@@ -13,21 +13,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-11-03T17:23:00.227+09:00
-  initializedAtString: 2020-11-03T17:22:59.767+09:00
+  lastUpdatedAtString: 2020-11-04T15:05:28.201+09:00
+  initializedAtString: 2020-11-04T14:04:27.170+09:00
   localBranches:
   - name: master
     tracking: origin/master
-  - name: schedule
+  - name: UI_fixed2
     tracking: 
   remoteBranches:
   - name: origin/HEAD
     tracking: '[None]'
   - name: origin/master
     tracking: '[None]'
-  - name: origin/schedule
-    tracking: '[None]'
   - name: origin/Ui_fixed
+    tracking: '[None]'
+  - name: origin/UI_fixed2
     tracking: '[None]'
   remotes:
   - name: origin
@@ -40,14 +40,14 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - master
-    - schedule
+    - UI_fixed2
     values:
     - name: master
       remote:
         name: origin
         url: https://github.com/jphacks/B_2001.git
       trackingBranch: master
-    - name: schedule
+    - name: UI_fixed2
       remote:
         name: 
         url: 
@@ -59,8 +59,8 @@ MonoBehaviour:
     - Values:
       - HEAD
       - master
-      - schedule
       - Ui_fixed
+      - UI_fixed2
     subKeyValues:
     - Values:
       - name: HEAD
@@ -73,12 +73,12 @@ MonoBehaviour:
           name: origin
           url: https://github.com/jphacks/B_2001.git
         trackingBranch: 
-      - name: schedule
+      - name: Ui_fixed
         remote:
           name: origin
           url: https://github.com/jphacks/B_2001.git
         trackingBranch: 
-      - name: Ui_fixed
+      - name: UI_fixed2
         remote:
           name: origin
           url: https://github.com/jphacks/B_2001.git

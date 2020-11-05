@@ -13,48 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-11-04T11:44:32.357+09:00
-  initializedAtString: 2020-11-04T11:17:03.637+09:00
+  lastUpdatedAtString: 2020-11-05T16:57:51.572+09:00
+  initializedAtString: 2020-11-05T16:51:51.902+09:00
   entries:
-  - path: Assets\Scenes\main.unity
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Scenes\main.unity
-    projectPath: Assets\Scenes\main.unity
+  - path: Assets\Script\Submit_Schedule.cs
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Script\Submit_Schedule.cs
+    projectPath: Assets\Script\Submit_Schedule.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Script\Panel_Edit_Schedule.cs
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Script\Panel_Edit_Schedule.cs
-    projectPath: Assets\Script\Panel_Edit_Schedule.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Script\Panel_Edit_Schedule.cs.meta
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Script\Panel_Edit_Schedule.cs.meta
-    projectPath: Assets\Script\Panel_Edit_Schedule.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Script\Panel_Edit_Schedule_Close.cs
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Script\Panel_Edit_Schedule_Close.cs
-    projectPath: Assets\Script\Panel_Edit_Schedule_Close.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Script\Panel_Edit_Schedule_Close.cs.meta
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Script\Panel_Edit_Schedule_Close.cs.meta
-    projectPath: Assets\Script\Panel_Edit_Schedule_Close.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\ArtifactDB
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ArtifactDB
     projectPath: Library\ArtifactDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -82,30 +52,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\LastSceneManagerSetup.txt
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\LastSceneManagerSetup.txt
-    projectPath: Library\LastSceneManagerSetup.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe1.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
@@ -124,9 +70,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe5.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+  - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -139,12 +85,6 @@ MonoBehaviour:
   - path: Library\StateCache\Hierarchy\46b7a0-mainStage.json
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\StateCache\Hierarchy\46b7a0-mainStage.json
     projectPath: Library\StateCache\Hierarchy\46b7a0-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\SceneView\d69a67-mainStage.json
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\StateCache\SceneView\d69a67-mainStage.json
-    projectPath: Library\StateCache\SceneView\d69a67-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
 
+
+
 public class ScheduleView : MonoBehaviour
 {
 
@@ -10,30 +12,36 @@ public class ScheduleView : MonoBehaviour
     [System.Serializable]
     public class todays_schedule
     {
+        public int month;
         public int day;
         public string schedule;
     }
+    
 
-    // Start is called before the first frame update
     void Start()
     {
-        Debug.Log(JsonUtility.ToJson(this));
+        //Debug.Log(JsonUtility.ToJson(this));
     }
 
-    // Update is called once per frame
+
     void Update()
-    {
-        loadToday();
+    {   
+        //todays_schedule abc = loadToday();
+        //Debug.Log(Read_month.monthv);
     }
-
+    
+    // JSONから読み込む
     public todays_schedule loadToday()
     {
         string datastr = "";
         StreamReader reader;
-        reader = new StreamReader(Application.dataPath + "json/schedule.json");
+        reader = new StreamReader(Application.dataPath + "/json/schedule.json");
         datastr = reader.ReadToEnd();
         reader.Close();
 
         return JsonUtility.FromJson<todays_schedule>(datastr);
     }
+
+
+
 }
