@@ -29,11 +29,11 @@ public class Submit_Schedule : MonoBehaviour
     }
 
     // スケジュールのオブジェクト
-    [System.Serializable]
+    /* [System.Serializable]
     public class todays_schedule_allay
     {
         public todays_schedule[] tallay;
-    }
+    }*/
 
     public void OnClick()
     {
@@ -50,10 +50,17 @@ public class Submit_Schedule : MonoBehaviour
                     todays_Schedule.schedule = Read_Schedule.schedulev,
                 }
             }
-        };
+        };*/
+
+        // 月、日、予定の取得
+        todays_schedule todays_Schedule = new todays_schedule();
+        todays_Schedule.day = Read_Day.dayv;
+        todays_Schedule.month = Read_month.monthv;
+        todays_Schedule.schedule = Read_Schedule.schedulev;
+
         // 書き込み
         writetoday(todays_Schedule);
-        */
+ 
    
     }
 

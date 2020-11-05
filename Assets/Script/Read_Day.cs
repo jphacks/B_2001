@@ -13,7 +13,8 @@ public class Read_Day : MonoBehaviour
 
     void Update()
     {
-        dayv = dropdown.value;
+        dayv = 1+dropdown.value;
+
     }
 
 }

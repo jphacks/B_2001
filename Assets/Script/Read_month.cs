@@ -13,7 +13,7 @@ public class Read_month : MonoBehaviour
 
     void Update()
     {
-        monthv = dropdown.value;
+        monthv = 1+dropdown.value;
     }
 
 }
