@@ -22,11 +22,16 @@ public class Alarm_H : MonoBehaviour
     //変数m_timeをint型に変換するための変数
     int m_newtime;
 
+    //if文用
+    int k = 1;
+
+    private AudioSource audioSource;
+
     [SerializeField] private Dropdown dropdownComponent;
 
     void Start()
     {
-
+        audioSource = GetComponent<AudioSource>();
     }
 
 
@@ -59,10 +64,17 @@ public class Alarm_H : MonoBehaviour
         m_newtime = int.Parse(m_time);
 
         //設定した時間が現在時刻と同じなら○○をする
-        if (new_set_time == newtime && m_settime == m_newtime)
+        if (new_set_time == newtime && m_settime == m_newtime && k == 1)
         {
-            Debug.Log("Good");
-            Debug.Log("finish");
+            Debug.Log("Alarm");
+            audioSource.Play();
+            Debug.Log("Alarm2");
+            k = 2;
+
+        }
+        if (k == 2 && Input.GetMouseButtonDown(2))
+        {
+            audioSource.Stop();
         }
     }
 }
