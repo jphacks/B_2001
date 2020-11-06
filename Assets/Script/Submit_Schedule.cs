@@ -57,6 +57,7 @@ public class Submit_Schedule : MonoBehaviour
         todays_Schedule.day = Read_Day.dayv;
         todays_Schedule.month = Read_month.monthv;
         todays_Schedule.schedule = Read_Schedule.schedulev;
+        Debug.Log(Read_Schedule.schedulev);
 
         // 書き込み
         writetoday(todays_Schedule);
