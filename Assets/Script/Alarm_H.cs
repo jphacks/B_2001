@@ -11,7 +11,7 @@ public class Alarm_H : MonoBehaviour
     private string m_time;
 
     //0時に設定しないように
-    private int iptime = 25;
+    public static int iptime = 25;
     //「時」の設定用の変数
     int new_set_time;
     //「分」の設定用の変数

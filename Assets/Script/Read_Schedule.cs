@@ -18,10 +18,11 @@ public class Read_Schedule : MonoBehaviour
     }
 
     
-    void Update()
+    public void InputText()
     {
         // スケジュールを格納
-        string schedulev = inputField.text;
+        schedulev = inputField.text;
+        Debug.Log(schedulev);
     }
 }
 
