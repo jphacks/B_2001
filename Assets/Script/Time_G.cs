@@ -26,6 +26,21 @@ public class Time_G : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        timetext.text = t + ":" + m;
+        if (t < 10 && m < 10)
+        {
+            timetext.text = "Alarm: "+ "0" + t + ":" + "0" + m;
+        }
+        else if (t < 10 && m > 10)
+        {
+            timetext.text = "Alarm: " + "0" + t + ":" + m;
+        }
+        else if (t > 10 && m < 10)
+        {
+            timetext.text = "Alarm: " + t + ":" + "0" + m;
+        }
+        else
+        {
+            timetext.text = "Alarm: " + t + ":" + m;
+        }
     }
 }
