@@ -11,6 +11,7 @@ public class Start_image : MonoBehaviour
     [SerializeField] private GameObject b;
     [SerializeField] private GameObject c;
 
+    public static int start_a = 0;
 
 
 
@@ -28,19 +29,19 @@ public class Start_image : MonoBehaviour
             //randomが1の時
             case 1:
                 a.SetActive(true);
-
+                
                 break;
 
             //randomが2の時
             case 2:
                 b.SetActive(true);
-
+                
                 break;
 
             //randomが3の時
             case 3:
                 c.SetActive(true);
-
+                
                 break;
         }
     }
@@ -52,6 +53,7 @@ public class Start_image : MonoBehaviour
             a.SetActive(false);
             b.SetActive(false);
             c.SetActive(false);
+            start_a = 1;
         }
     }
 }

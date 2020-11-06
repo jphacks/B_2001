@@ -13,57 +13,100 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-11-06T15:12:21.886+09:00
-  initializedAtString: 2020-11-06T14:47:24.341+09:00
+  lastUpdatedAtString: 2020-11-06T21:29:36.463+09:00
+  initializedAtString: 2020-11-06T21:21:15.799+09:00
   entries:
-  - path: Assets\Font\crayon_1-1.ttf
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Font\crayon_1-1.ttf
-    projectPath: Assets\Font\crayon_1-1.ttf
+  - path: Assets\json\schedule.json
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\json\schedule.json
+    projectPath: Assets\json\schedule.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\komati\komati_anim_Controllor 1.controller
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\komati\komati_anim_Controllor
+      1.controller
+    projectPath: Assets\komati\komati_anim_Controllor 1.controller
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\komati\komatiController.cs
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\komati\komatiController.cs
+    projectPath: Assets\komati\komatiController.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "Assets\\komati\\Miraikomachi_mesh_\u53E3\u3060\u3051\u52D5\u304B\u3059_facial.anim"
+    fullPath: "C:\\Users\\love_\\Desktop\\P\\Git\\B_2001\\Assets\\komati\\Miraikomachi_mesh_\u53E3\u3060\u3051\u52D5\u304B\u3059_facial.anim"
+    projectPath: "Assets\\komati\\Miraikomachi_mesh_\u53E3\u3060\u3051\u52D5\u304B\u3059_facial.anim"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "Assets\\komati\\Miraikomachi_mesh_\u53E3\u3060\u3051\u52D5\u304B\u3059_facial.anim.meta"
+    fullPath: "C:\\Users\\love_\\Desktop\\P\\Git\\B_2001\\Assets\\komati\\Miraikomachi_mesh_\u53E3\u3060\u3051\u52D5\u304B\u3059_facial.anim.meta"
+    projectPath: "Assets\\komati\\Miraikomachi_mesh_\u53E3\u3060\u3051\u52D5\u304B\u3059_facial.anim.meta"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "Assets\\komati\\\u3053\u3093\u306B\u3061\u306F.wav"
+    fullPath: "C:\\Users\\love_\\Desktop\\P\\Git\\B_2001\\Assets\\komati\\\u3053\u3093\u306B\u3061\u306F.wav"
+    projectPath: "Assets\\komati\\\u3053\u3093\u306B\u3061\u306F.wav"
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Font\crayon_1-1.ttf.meta
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Font\crayon_1-1.ttf.meta
-    projectPath: Assets\Font\crayon_1-1.ttf.meta
+  - path: "Assets\\komati\\\u3053\u3093\u306B\u3061\u306F.wav.meta"
+    fullPath: "C:\\Users\\love_\\Desktop\\P\\Git\\B_2001\\Assets\\komati\\\u3053\u3093\u306B\u3061\u306F.wav.meta"
+    projectPath: "Assets\\komati\\\u3053\u3093\u306B\u3061\u306F.wav.meta"
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: "Assets\\komati\\\u3057\u3083\u3079\u308B.anim"
+    fullPath: "C:\\Users\\love_\\Desktop\\P\\Git\\B_2001\\Assets\\komati\\\u3057\u3083\u3079\u308B.anim"
+    projectPath: "Assets\\komati\\\u3057\u3083\u3079\u308B.anim"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: "Assets\\komati\\\u5F85\u6A5F\u52D5\u4F5C.anim"
+    fullPath: "C:\\Users\\love_\\Desktop\\P\\Git\\B_2001\\Assets\\komati\\\u5F85\u6A5F\u52D5\u4F5C.anim"
+    projectPath: "Assets\\komati\\\u5F85\u6A5F\u52D5\u4F5C.anim"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scenes\main.unity
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Scenes\main.unity
     projectPath: Assets\Scenes\main.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Script\Alarm_H.cs
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Script\Alarm_H.cs
-    projectPath: Assets\Script\Alarm_H.cs
+  - path: Assets\Script\Get_Inf.cs
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Script\Get_Inf.cs
+    projectPath: Assets\Script\Get_Inf.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Script\Get_Inf.cs.meta
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Script\Get_Inf.cs.meta
+    projectPath: Assets\Script\Get_Inf.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Script\Serial_Master.cs
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Script\Serial_Master.cs
+    projectPath: Assets\Script\Serial_Master.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Script\Serial_Master.cs.meta
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Script\Serial_Master.cs.meta
+    projectPath: Assets\Script\Serial_Master.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Script\Start_image.cs
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Script\Start_image.cs
+    projectPath: Assets\Script\Start_image.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Script\Time_G.cs
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Script\Time_G.cs
-    projectPath: Assets\Script\Time_G.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Sounds.meta
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Sounds.meta
-    projectPath: Assets\Sounds.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Sounds\kitchen_timer1.mp3
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Sounds\kitchen_timer1.mp3
-    projectPath: Assets\Sounds\kitchen_timer1.mp3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Sounds\kitchen_timer1.mp3.meta
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Assets\Sounds\kitchen_timer1.mp3.meta
-    projectPath: Assets\Sounds\kitchen_timer1.mp3.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\ArtifactDB
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ArtifactDB
     projectPath: Library\ArtifactDB
@@ -73,6 +116,18 @@ MonoBehaviour:
   - path: Library\CurrentLayout-default.dwlt
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\CurrentLayout-default.dwlt
     projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\expandedItems
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\expandedItems
+    projectPath: Library\expandedItems
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -100,6 +155,150 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.Timeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.pdb
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\ScriptAssemblies\UnityEngine.UI.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\SourceAssetDB
     fullPath: C:\Users\love_\Desktop\P\Git\B_2001\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
@@ -118,9 +317,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: ProjectSettings\EditorBuildSettings.asset
-    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\ProjectSettings\EditorBuildSettings.asset
-    projectPath: ProjectSettings\EditorBuildSettings.asset
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: C:\Users\love_\Desktop\P\Git\B_2001\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
