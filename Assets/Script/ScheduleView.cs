@@ -16,6 +16,11 @@ public class ScheduleView : MonoBehaviour
         public int day;
         public string schedule;
     }
+
+    // 渡す用の変数
+    public static int monthd;
+    public static int dayd;
+    public static string scheduled;
     
 
     void Start()
@@ -27,7 +32,10 @@ public class ScheduleView : MonoBehaviour
     void Update()
     {
         todays_schedule today_re = loadToday();
-        Debug.Log(today_re);
+        monthd = today_re.month;
+        dayd = today_re.day;
+        scheduled = today_re.schedule;
+        //Debug.Log(today_re.month);
     }
     
     // JSONから読み込む
