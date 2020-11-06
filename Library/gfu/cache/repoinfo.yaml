@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-11-06T09:13:21.338+09:00
-  initializedAtString: 2020-11-06T09:13:21.338+09:00
+  lastUpdatedAtString: 2020-11-06T12:36:54.633+09:00
+  initializedAtString: 2020-11-06T12:36:54.633+09:00
   currentGitRemote:
     name: origin
     url: https://github.com/jphacks/B_2001.git
@@ -24,10 +24,10 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: UI
+    name: Schedule
     tracking: 
   currentConfigBranch:
-    name: UI
+    name: Schedule
     remote:
       name: 
       url: 

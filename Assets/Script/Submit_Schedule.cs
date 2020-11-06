@@ -72,9 +72,11 @@ public class Submit_Schedule : MonoBehaviour
 
         // JSONへ変換
         string jsonsh = JsonUtility.ToJson(todays_Schedule);
-        Debug.Log(jsonsh);
+        //Debug.Log(jsonsh);
 
-        writer = new StreamWriter(Application.dataPath + "/json/schedule.json",true);
+        // .jsonに書き込み,うまくいかないので,上書き(false)にして1つのみ保持
+        // 後でどうにかしますごめんなさい
+        writer = new StreamWriter(Application.dataPath + "/json/schedule.json",false);
         writer.Write(jsonsh);
         writer.Flush();
         writer.Close();
