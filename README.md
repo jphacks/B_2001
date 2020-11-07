@@ -57,9 +57,9 @@
 
 ### 独自技術
 #### ハッカソンで開発した独自機能・技術  
-- 現在時刻と連動して背景が変わる (https://github.com/jphacks/B_2001/commit/3db0f340965c268acc3151c9d684c7b3637329b0)  
-- 気圧を測定し、低気圧かどうか判断させる (https://github.com/jphacks/B_2001/commit/76ad428d1739135a666834d8ade85a165e6071eb)  
-- スケジュールをJSONファイルで管理 (https://github.com/jphacks/B_2001/commit/4ded93a43e4a9e7b3f2c716fa8ad30f1f1becfd0)  
-- 現在時刻と比較し、アラームを鳴らす (https://github.com/jphacks/B_2001/commit/b554d7ce4f901fa9b985c1e1a464ab59f51a5974)
+- 現在時刻と連動して背景が変わる [commit](https://github.com/jphacks/B_2001/commit/3db0f340965c268acc3151c9d684c7b3637329b0)  
+- 気圧を測定し、低気圧かどうか判断させる [commit](https://github.com/jphacks/B_2001/commit/76ad428d1739135a666834d8ade85a165e6071eb)  
+- スケジュールをJSONファイルで管理 [commit](https://github.com/jphacks/B_2001/commit/4ded93a43e4a9e7b3f2c716fa8ad30f1f1becfd0)  
+- 現在時刻と比較し、アラームを鳴らす [commit](https://github.com/jphacks/B_2001/commit/b554d7ce4f901fa9b985c1e1a464ab59f51a5974)
 
 #### 製品に取り入れた研究内容（データ・ソフトウェアなど）（※アカデミック部門の場合のみ提出必須）
